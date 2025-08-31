@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**lannguyenhuong08-beep/lannguyenhuong08-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm Lan.
+🔭 I am a Data Analyst with 10+ years of experience in Business Intelligence, E-commerce Analytics, and Marketing Analytics. 
+🌱 Currently, I work as a Freelance Data Analyst, supporting small and mid-sized businesses with dashboards, customer insights, and campaign optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in the power of data to tell business stories (data storytelling) and to drive better strategic decisions.
+  
+📫 How to reach me: Write me at lan.ngyenhuong08@gmail.com
+
+or call  +33 6 17 67 44 89
+
+
